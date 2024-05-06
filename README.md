@@ -1,6 +1,6 @@
 # Flutter ChatApp
 
-A Chat App made with Flutter, Firebase & Riverpod 2.0!
+A Chat App made with Flutter, Firebase & Riverpod 2.0
 
 ## To start development
 After cloning this repository, migrate to ```flutter-whatsapp-clone``` folder. Then, follow the following steps:
